@@ -1093,5 +1093,12 @@
     "title": "01 - Installing R Packages",
     "section": "Documentation and Websites",
     "text": "Documentation and Websites\n\nWe have already seen a couple ways to access the help documentation contained within an R package via Positron. Beyond internal documentation, R packages often have external websites that contain additional walk-through articles (ie. vignettes) to better document how to use the package.\nFor CRAN-based packages, we can start off by searching for the package name. So, in the case of dplyr:"
+  },
+  {
+    "objectID": "course/01_InstallingRPackages/homeworks/DavidRach/TakeHomeQuestions.html",
+    "href": "course/01_InstallingRPackages/homeworks/DavidRach/TakeHomeQuestions.html",
+    "title": "Take-Problems Week #1",
+    "section": "",
+    "text": "This is an example of turning in an assignment.\n\nProblem 1\nWhen I checked the index of PeacoQC, I saw the following:\n\nI found the following functions ….\n\n\nProblem 2\nBioconductor has #xyz of cytometry packages\nFulanoDeTal contributed the greatest number of individual cytometry packages, with xyz\nAnd I would want to try tidyflowCore, CATALYST and …. for the following reasons.\n\n\nProblem 3\nI installed broom, cytoMEM, and CytoExploreR, seeing the following differences vs regular way…."
   }
 ]

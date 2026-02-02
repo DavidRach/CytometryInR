@@ -1,0 +1,28 @@
+---
+title: "Take-Problems Week #1"
+format: html
+embed-resources: true
+toc: true
+---
+
+This is an example of turning in an assignment. 
+
+# Problem 1
+
+When I checked the index of PeacoQC, I saw the following:
+
+![](images/Placeholder.png)
+
+I found the following functions ....
+
+# Problem 2
+
+Bioconductor has #xyz of cytometry packages
+
+FulanoDeTal contributed the greatest number of individual cytometry packages, with xyz
+
+And I would want to try tidyflowCore, CATALYST and .... for the following reasons. 
+
+# Problem 3
+
+I installed broom, cytoMEM, and CytoExploreR, seeing the following differences vs regular way....
